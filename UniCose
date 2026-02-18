@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Arreglos de ropa a domicilio en Gran Canaria. Recogemos tu prenda, la arreglamos y la devolvemos en tu casa. Servicio rápido y profesional.">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arreglos de Ropa a Domicilio en Gran Canaria</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background-color: #f9f9f9;
+            text-align: center;
+        }
+
+        header {
+            background: linear-gradient(90deg, #8e44ad, #c0392b);
+            color: white;
+            padding: 40px 20px;
+        }
+
+        h1 {
+            margin: 0;
+            font-size: 28px;
+        }
+
+        section {
+            padding: 30px 20px;
+        }
+
+        .card {
+            background: white;
+            margin: 20px auto;
+            padding: 20px;
+            max-width: 500px;
+            border-radius: 12px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+
+        button {
+            background-color: #25D366;
+            color: white;
+            padding: 12px 25px;
+            border: none;
+            border-radius: 8px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #1ebe5d;
+        }
+
+        footer {
+            background: #333;
+            color: white;
+            padding: 15px;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>Arreglos de Ropa a Domicilio en Gran Canaria</h1>
+    <p>Recogemos tu ropa, la arreglamos y la devolvemos lista en tu casa</p>
+</header>
+
+<section>
+    <h2>Servicios en Gran Canaria</h2>
+    <div class="card">
+        <p>✔ Ajustes de pantalones</p>
+        <p>✔ Cambio de cremalleras</p>
+        <p>✔ Arreglo de vestidos</p>
+        <p>✔ Estrechar camisas</p>
+        <p>✔ Reparaciones generales</p>
+    </div>
+</section>
+
+<section>
+    <h2>¿Cómo funciona?</h2>
+    <div class="card">
+        <p>1️⃣ Recogemos tu prenda en cualquier zona de Gran Canaria</p>
+        <p>2️⃣ La arreglamos en nuestro taller profesional</p>
+        <p>3️⃣ Te la entregamos lista en tu domicilio</p>
+    </div>
+</section>
+
+<section>
+    <h2>Contacto</h2>
+    <p>Servicio disponible en toda Gran Canaria</p>
+    <a href="https://wa.me/346927031950">
+        <button>Contactar por WhatsApp</button>
+    </a>
+</section>
+
+<footer>
+    <p>© 2026 Arreglos de Ropa en Gran Canaria</p>
+</footer>
+
+</body>
+</html>
